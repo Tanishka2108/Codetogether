@@ -9,8 +9,8 @@ $(document).ready(function(){
     // output_editor.setTheme("ace/theme/monokai");
     output_editor.session.setMode("ace/mode/text");
     var setModeObj = {
-        "4": "c_cpp",
-        "10": "c_cpp",
+        "48": "c_cpp",
+        "53": "c_cpp",
         "16": "csharp",
         "22": "golang",
         "26": "java",
@@ -96,8 +96,8 @@ $(document).ready(function(){
     });
 
     var setModeObj = {
-        "4": "c_cpp",
-        "10": "c_cpp",
+        "48": "c_cpp",
+        "53": "c_cpp",
         "16": "csharp",
         "22": "golang",
         "26": "java",
