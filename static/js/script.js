@@ -8,7 +8,7 @@ $(document).ready(function(){
         "26": "java",
         "27": "java",
         "29": "javascript",
-        "34": "python",
+        "71": "python",
         "43": "text"
     }
 
