@@ -128,7 +128,7 @@ $(document).ready(function(){
         url = "https://judge0-ce.p.rapidapi.com/submissions?base64_encoded=false";
         body = {
             "source_code": source_code,
-            "language_id": 71 //$('#language-id').val()
+            "language_id": $('#language-id').val()
         }
         var stdin = input_editor.getValue();
         if(stdin !== ""){
